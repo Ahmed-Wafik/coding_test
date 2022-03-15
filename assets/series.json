@@ -1,0 +1,86 @@
+[
+  {
+    "title": "superhero series",
+    "about": "Series Tabata Cardio™ is a 30-minute high intensity training program for all fitness levels and ages, using bodyweight only.",
+    "totalRunTime": "03 hrs 03 mins (25 Videos)",
+    "difficulty": "Intermediate",
+    "intensity": "Level 3",
+    "instructor": {
+      "name": "Harley Pasternak",
+      "about": "Harly Pastrenak is a celebrity fitness trainer.",
+      "profilePictureUrl": ""
+    },
+    "classes": [
+      {
+        "title": "How to approach this series",
+        "subTitle": "sub title sub title sub title sub title",
+        "link": "",
+        "thumbnail": "",
+        "duration": "(1:12)"
+      }
+    ]
+  },
+  {
+    "title": "superhero series",
+    "about": "Series Tabata Cardio™ is a 30-minute high intensity training program for all fitness levels and ages, using bodyweight only.",
+    "totalRunTime": "03 hrs 03 mins (25 Videos)",
+    "difficulty": "Intermediate",
+    "intensity": "Level 3",
+    "instructor": {
+      "name": "Harley Pasternak",
+      "about": "Harly Pastrenak is a celebrity fitness trainer.",
+      "profilePictureUrl": ""
+    },
+    "classes": [
+      {
+        "title": "How to approach this series",
+        "subTitle": "sub title sub title sub title sub title",
+        "link": "",
+        "thumbnail": "",
+        "duration": "(1:12)"
+      }
+    ]
+  },
+  {
+    "title": "Day AB Fire",
+    "about": "Series Tabata Cardio™ is a 30-minute high intensity training program for all fitness levels and ages, using bodyweight only.",
+    "totalRunTime": "02 hrs 01 mins (10 Videos)",
+    "difficulty": "Easy",
+    "intensity": "Level 2",
+    "instructor": {
+      "name": "Ashley Galvin",
+      "about": "Ashley Galvin is a celebrity fitness trainer.",
+      "profilePictureUrl": ""
+    },
+    "classes": [
+      {
+        "title": "step it up reformer flow",
+        "subTitle": "sub title sub title sub title sub title",
+        "link": "",
+        "thumbnail": "",
+        "duration": "(1:12)"
+      }
+    ]
+  },
+  {
+    "title": "The Barre Collection",
+    "about": "Series Tabata Cardio™ is a 30-minute high intensity training program for all fitness levels and ages, using bodyweight only.",
+    "totalRunTime": "01 hrs 00 mins (30 Videos)",
+    "difficulty": "Hard",
+    "intensity": "Level 3",
+    "instructor": {
+      "name": "Harley Pasternak",
+      "about": "Harly Pastrenak is a celebrity fitness trainer.",
+      "profilePictureUrl": ""
+    },
+    "classes": [
+      {
+        "title": "How to approach this series",
+        "subTitle": "sub title sub title sub title sub title",
+        "link": "",
+        "thumbnail": "",
+        "duration": "(1:12)"
+      }
+    ]
+  }
+]
